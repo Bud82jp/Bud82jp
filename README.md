@@ -4,3 +4,5 @@
 - 💞️ I’m looking to collaborate on making a discord bot/Making a plugin for my minecraft server
 - 📫 How to reach me DM me on Discord (Bud82jp#6030)
 - 💎 I am currently looking for a developer (No pay) who knows python and java.
+- make marco owner
+-make marco owner
