@@ -7,7 +7,7 @@ Learning python and (insert some topics) with a strong interest in aviation (Pla
 
 Aspiring software engineer with a passion for learning and developing practical solutions to everyday problems.
 
- enjoy learning new technologies and frameworks, workflow automations and pouring hours into developing creative projects—no matter if it's through code, electronics, or even web development.
+ I enjoy learning new technologies and frameworks, workflow automations and pouring hours into developing creative projects—no matter if it's through code, electronics, or even web development.
 
 ## My Projects
 
