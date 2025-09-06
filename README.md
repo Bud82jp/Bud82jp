@@ -18,7 +18,6 @@ A few repositories that showcase my journey:
 - Coding (Python, VBA, and more)
 - Electronics tinkering
 - Aviation (Planes)
-- Always learning something new!
 
 ## 📫 Connect with Me
 
