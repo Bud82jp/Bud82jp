@@ -22,7 +22,7 @@ A few repositories that showcase my journey:
 
 ## 📫 Connect with Me
 
-- [LinkedIn](#) <!-- Add your LinkedIn URL here! -->
+- [LinkedIn](https://www.linkedin.com/in/jack-pretty-8992ab376/) <!-- Add your LinkedIn URL here! -->
 
 ---
 
