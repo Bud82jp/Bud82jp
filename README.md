@@ -1,4 +1,4 @@
-Hi, I'm Bud82jp (Call me Jack!)
+# Hi, I'm Bud82jp (Call me Jack!)
 
 Currently studying T-Level software development
 Learning python and (insert some topics) with a strong interest in (insert topics)
@@ -9,7 +9,7 @@ Aspiring software engineer with a passion for learning and developing practical 
 
 My Projects
 
-Some of the repositories that highlight my journey so far are:
+### Some of the repositories that highlight my journey so far are:
 -
 
 Interests
