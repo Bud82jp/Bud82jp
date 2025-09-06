@@ -1,28 +1,28 @@
-# Hi, I'm Bud82jp 👋
+Hi, I'm Bud82jp (Call me Jack!)
 
-🎓 Currently studying **Software Engineering**  
-💻 Learning about **Python** and **VBA**
+Currently studying T-Level software development
+Learning python and (insert some topics) with a strong interest in (insert topics)
 
-## 🚀 About Me
+About Me
 
-Aspiring software engineer with a passion for learning and building practical solutions. I enjoy exploring new technologies, automating tasks, and working on creative projects—whether it's with code, electronics, or web development.
+Aspiring software engineer with a passion for learning and developing practical solutions to everyday problems. I enjoy learning new technologies and frameworks, workflow automations and pouring hours into developing creative projects—no matter if it's through code, electronics, or even web development.
 
-## 🛠️ Projects
+My Projects
 
-A few repositories that showcase my journey:
-- 
+Some of the repositories that highlight my journey so far are:
+-
 
+Interests
 
-## 🌱 Interests
+- Programming (Python, VBA, and many more )
+- Tinkering with electronics such as(insert electronic)
+- Aviation (Airplanes) (add something specific you like about planes)
 
-- Coding (Python, VBA, and more)
-- Electronics tinkering
-- Aviation (Planes)
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/jack-pretty-8992ab376/) <!-- Add your LinkedIn URL here! -->
-
----
+Connect with Me
+You can connect with me on various platforms such as:
+[LinkedIn](https://www.linkedin.com/in/jack-pretty-8992ab376/)
+[PLATFORM](PLATFORM)
+Or through email at:
+jack@theprettys.co.uk
 
 *Thanks for visiting my profile! Feel free to explore my repositories or reach out for collaboration or questions.*
