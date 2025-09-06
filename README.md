@@ -21,7 +21,9 @@ Aspiring software engineer with a passion for learning and developing practical 
 ## Connect with Me
 ### You can connect with me on various platforms such as:
 [LinkedIn](https://www.linkedin.com/in/jack-pretty-8992ab376/)
+
 [PLATFORM](PLATFORM)
+
 Or through email at:
 jack@theprettys.co.uk
 
