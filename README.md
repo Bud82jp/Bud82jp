@@ -31,4 +31,4 @@ jack@theprettys.co.uk
 
 *Thanks for visiting my profile! Feel free to explore my repositories or reach out for collaboration or questions.*
 
-#Yeahh but also at the top when it says “strong interest in” you should name some specific topics on software development you like and then in the interests you can talk about things you like that aren’t related to tech
+# Yeahh but also at the top when it says “strong interest in” you should name some specific topics on software development you like and then in the interests you can talk about things you like that aren’t related to tech
