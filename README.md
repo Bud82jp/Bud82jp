@@ -15,9 +15,9 @@ A few repositories that showcase my journey:
 
 ## 🌱 Interests
 
-- Coding (Python, VBA, web, and more)
-- Robotics and automation
+- Coding (Python, VBA, and more)
 - Electronics tinkering
+- Aviation (Planes)
 - Always learning something new!
 
 ## 📫 Connect with Me
