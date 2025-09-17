@@ -1,7 +1,7 @@
 # Hi, I'm Bud82jp (Call me Jack!) 👋
 
 Currently studying T-Level software development 💻
-Learning python and (insert some topics) with a strong interest in aviation (Planes)
+Learning python and data with a strong interest in aviation (Planes)
 
 ## About Me
 
@@ -12,16 +12,17 @@ Aspiring software engineer with a passion for learning and developing practical 
 ## My Projects
 
 ### Some of the repositories that highlight my journey so far are:
--
+- 
 
 ## Interests
 
 - Programming (Python, VBA, and many more )
-- Tinkering with electronics such as(insert electronic)
-- Aviation (Airplanes) (add something specific you like about planes)
+- Tinkering with electronics such as computers and Raspberry Pis
+- Aviation (Airplanes) and the large variety of aircraft and information
 
 ## Connect with Me
 ### You can connect with me on various platforms such as:
+
 [LinkedIn](https://www.linkedin.com/in/jack-pretty-8992ab376/)
 
 [PLATFORM](PLATFORM)
