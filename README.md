@@ -1,6 +1,8 @@
 # Hi, I'm Bud82jp (Call me Jack!) 👋
 
 Currently studying T-Level software development 💻
+
+
 Learning python and data with a strong interest in aviation (Planes)
 
 ## About Me
