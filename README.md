@@ -22,7 +22,7 @@ I'm a first-year T-Level student with a strong interest in software development,
 - Virtualisation and hypervisor management (Proxmox VMs and LXC)
 - Containerisation (Docker)
 - Identity and access management - SSO using OAuth2 and forward proxy authentication across multiple platforms
-- DNS and reverse proxy management (Nginx Proxy Manager)
+- DNS and reverse proxy management (Nginx Proxy Manager/NGINX)
 - UK GDPR and data protection (practical experience with SARs, ICO processes, and compliance frameworks)
 - Version control (Git and GitHub)
 - Electronics and Raspberry Pi
@@ -43,14 +43,3 @@ I'm a first-year T-Level student with a strong interest in software development,
 - [Email](mailto:jack@theprettys.co.uk)
 
 Thanks for visiting - feel free to explore my repositories or reach out.
-
-
-
-
-
-
-
-
-
-
-![Jack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bud82jp&show_icons=true&theme=dark)
